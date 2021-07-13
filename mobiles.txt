@@ -1,4 +1,0 @@
-andriod
-iphone
-microsoft
-chrome
