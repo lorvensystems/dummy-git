@@ -1,5 +1,4 @@
 car
-jeep
 van
 bus
 lorry

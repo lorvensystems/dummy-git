@@ -1,5 +1,4 @@
 andriod
 iphone
 blackberry
-nokia
 microsoft
