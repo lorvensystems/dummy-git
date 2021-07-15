@@ -1,4 +1,5 @@
 car-tesla
+car-bmw
 van
 bus
 lorry
